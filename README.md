@@ -23,9 +23,9 @@
 ## 🛒 Store Builders & Platforms
 
 * [Shopify](https://www.shopify.com/) - The global standard hosted commerce platform for DTC brands.
-  * [Shopify Store Setup Walkthrough](https://kuajingbase.com/shopify) - End-to-end setup guide for independent sellers.
+  * [Shopify Store Setup Walkthrough](https://kuajingbase.com/en/shopify) - End-to-end setup guide for independent sellers.
 * [WooCommerce](https://woocommerce.com/) - Open-source, highly customizable ecommerce engine built on WordPress.
-  * [WooCommerce vs Shopify: Architectural Decision Guide](https://kuajingbase.com/compare/shopify-vs-woocommerce) - Objective comparison on scaling, costs, and flexibility.
+  * [WooCommerce vs Shopify: Architectural Decision Guide](https://kuajingbase.com/en/compare/shopify-vs-woocommerce) - Objective comparison on scaling, costs, and flexibility.
 * [WordPress.org](https://wordpress.org/) - The foundational open-source CMS powering over 40% of the web.
 
 ---
@@ -33,9 +33,9 @@
 ## ☁️ Hosting & Cloud Infrastructure
 
 * [Cloudways](https://www.cloudways.com/) - Managed cloud hosting platform (DigitalOcean, Vultr, AWS, GCP) optimized for high-traffic WooCommerce stores.
-  * [Cloudways vs Bluehost Performance Audit](https://kuajingbase.com/compare/cloudways-vs-bluehost) - TTFB and architecture benchmarks.
-  * [Cloudways vs Kamatera Benchmark](https://kuajingbase.com/compare/cloudways-vs-kamatera) - Dedicated cloud computing cost breakdown.
-* [Hosting & VPS Directory](https://kuajingbase.com/hosting) - Performance reviews, server hardening guides, and benchmarks for cross-border merchants.
+  * [Cloudways vs Bluehost Performance Audit](https://kuajingbase.com/en/compare/cloudways-vs-bluehost) - TTFB and architecture benchmarks.
+  * [Cloudways vs Kamatera Benchmark](https://kuajingbase.com/en/compare/cloudways-vs-kamatera) - Dedicated cloud computing cost breakdown.
+* [Hosting & VPS Directory](https://kuajingbase.com/en/hosting) - Performance reviews, server hardening guides, and benchmarks for cross-border merchants.
 
 ---
 
@@ -47,8 +47,8 @@
 * [Airwallex](https://www.airwallex.com/) - Financial platform offering multi-currency business accounts, corporate cards, and payment collection.
 * [PayPal Commercial](https://www.paypal.com/) - Globally recognized digital wallet checkout.
 * [Payoneer](https://www.payoneer.com/) - Cross-border marketplace payout settlement and supplier payments.
-  * [Payoneer vs Wise Fee Comparison](https://kuajingbase.com/compare/payoneer-vs-wise) - Fee breakdown for international withdrawals.
-* [Global Payment Gateways Index](https://kuajingbase.com/payment) - Directory of fee benchmarks and compliance requirements.
+  * [Payoneer vs Wise Fee Comparison](https://kuajingbase.com/en/compare/payoneer-vs-wise) - Fee breakdown for international withdrawals.
+* [Global Payment Gateways Index](https://kuajingbase.com/en/payment) - Directory of fee benchmarks and compliance requirements.
 
 ---
 
@@ -70,15 +70,15 @@ Essential compliance frameworks for non-resident founders accessing US payment r
 
 ## 📊 Marketing & Analytics Tools
 
-* [Free E-commerce ROAS & Breakeven Calculator](https://kuajingbase.com/tools/roas-calculator) - Web tool to compute allowable CPA, breakeven ad spend, and net margins.
-* [Cross-Border Tools Review](https://kuajingbase.com/tools-review) - In-depth editorial reviews of marketing SaaS, SEO software, and design tools.
-* [Exclusive E-commerce Deals & Credits](https://kuajingbase.com/deals) - Verified partner discounts for cloud hosting and marketing tools.
+* [Free E-commerce ROAS & Breakeven Calculator](https://kuajingbase.com/en/toolkit/roas-calculator) - Web tool to compute allowable CPA, breakeven ad spend, and net margins.
+* [Cross-Border Tools Review](https://kuajingbase.com/en/tools-review) - In-depth editorial reviews of marketing SaaS, SEO software, and design tools.
+* [Exclusive E-commerce Deals & Credits](https://kuajingbase.com/en/deals) - Verified partner discounts for cloud hosting and marketing tools.
 
 ---
 
 ## 📦 Fulfillment & Logistics
 
-* [Logistics Software & Fulfillment Directory](https://kuajingbase.com/tools-review/logistics) - Curated list of 3PL management software, tracking APIs, and dropshipping fulfillment networks.
+* [Logistics Software & Fulfillment Directory](https://kuajingbase.com/en/tools-review/logistics) - Curated list of 3PL management software, tracking APIs, and dropshipping fulfillment networks.
 
 ---
 
